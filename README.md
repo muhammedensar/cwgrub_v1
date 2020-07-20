@@ -1,1 +1,3 @@
-# cwgrub_v1
+# Cyber-Warrior.Org | GRUB2 Theme
+
+Installation :
